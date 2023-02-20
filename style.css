@@ -162,3 +162,148 @@ aside :hover {
     color: #ea491d;
     background-color: rgb(238, 238, 238);
 }
+
+/* about page */
+.logo-about {
+    color: white;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.span-about {
+    color: #ea491d;
+}
+
+.links-about {
+    margin-left: 40px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.links-about a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.links-about a:hover {
+    color: #ea491d;
+}
+
+section-1 {
+    width: 100%;
+    height: 400px;
+    background-image: url(/pexels-david-mcbee-3955372.jpg);
+    display: flex;
+    background-size: cover;
+}
+
+section-1 h1 {
+    color: #f4f4f4;
+}
+
+.about-content p {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ea491d;
+    margin-top: 90px;
+    font-size: 30px;
+}
+
+.card-1 p {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-2 p {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 90px;
+    font-family: cursive;
+}
+
+.card-3 {
+    color: #ea491d;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.card-4 img {
+    /*        
+    /* border: 2px solid black;
+    border-radius: 20px;
+    height: 300px;
+    width: 300px; */
+    /* border: 1px solid rgb(180, 178, 178); */
+    /* padding: 20px;
+    flex-direction: center;
+    border-radius: 20px; */
+    /* background-color: rgb(224, 219, 219); */
+    /* height: 300px;
+width: 300px;
+margin-top: 20px;
+padding-left: 40px;  */
+    width: auto;
+    height: 560;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 350px;
+    margin-top: 10px;
+    background-color: whitesmoke;
+    margin-bottom: 40px;
+}
+
+.card-4 p{
+color: black;
+font-family: cursive;
+}
+center{
+color: #ea491d;
+}
+
+.card-5 {
+    margin-top: 50px;
+    text-align: center;
+    color: #ea491d;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #44555f;
+    color: #f4f4f4;
+    width: auto;
+    height: 400px;
+    align-items: center;
+    font-size: large;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.container a {
+    text-decoration: none;
+    color: #f4f4f4;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.container a:hover {
+    color: #ea491d;
+}
+
+.fa-twitter {
+    /* margin: 20px; */
+    color: #f4f4f4;
+    padding: 20px;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 200px;
+}
