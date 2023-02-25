@@ -257,12 +257,13 @@ padding-left: 40px;  */
     margin-bottom: 40px;
 }
 
-.card-4 p{
-color: black;
-font-family: cursive;
+.card-4 p {
+    color: black;
+    font-family: cursive;
 }
-center{
-color: #ea491d;
+
+center {
+    color: #ea491d;
 }
 
 .card-5 {
@@ -272,7 +273,7 @@ color: #ea491d;
     margin-bottom: 40px;
 }
 
-footer {
+.footer-1 {
     background-color: #44555f;
     color: #f4f4f4;
     width: auto;
@@ -296,14 +297,4 @@ footer {
 
 .container a:hover {
     color: #ea491d;
-}
-
-.fa-twitter {
-    /* margin: 20px; */
-    color: #f4f4f4;
-    padding: 20px;
-    font-size: 100px;
-    text-align: center;
-    text-decoration: none;
-    padding-top: 200px;
 }
